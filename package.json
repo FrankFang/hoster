@@ -1,0 +1,25 @@
+{
+  "name": "hoster",
+  "version": "0.1.0",
+  "description": "A hosts file manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankFang/hoster.git"
+  },
+  "keywords": [
+    "hosts",
+    "host",
+    "manager",
+    "cli"
+  ],
+  "author": "Frank Fang <frankfang1990@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrankFang/hoster/issues"
+  },
+  "homepage": "https://github.com/FrankFang/hoster#readme"
+}
